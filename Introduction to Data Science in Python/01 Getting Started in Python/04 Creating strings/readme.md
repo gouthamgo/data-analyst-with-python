@@ -1,4 +1,4 @@
-#Creating strings
+# Creating strings
 
 Let's continue to fill out the Missing Puppy Report for Bayes. In the previous exercise, we defined bayes_age, which was a float, which represents a number.
 

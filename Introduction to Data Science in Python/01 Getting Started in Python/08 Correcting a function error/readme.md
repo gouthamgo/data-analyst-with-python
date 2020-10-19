@@ -23,4 +23,4 @@ plt.plot(x_values, y_values)
 plt.show()
 ```
 # Plots
-https://github.com/gouthamgo/data-analyst-with-python/issues/1#issue-724587295
+<img src="https://github.com/gouthamgo/data-analyst-with-python/issues/1#issue-724587295">

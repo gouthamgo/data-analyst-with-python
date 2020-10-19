@@ -11,5 +11,5 @@ Possible Answers
 - this_is_a_very_long_variable_name_42
 ```
 Answer
-this_is_a_very_long_variable_name_42
+3dogs
 ```

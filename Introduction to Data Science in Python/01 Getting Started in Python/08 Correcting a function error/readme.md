@@ -23,4 +23,5 @@ plt.plot(x_values, y_values)
 plt.show()
 ```
 # Plots
-<img src="https://github.com/gouthamgo/data-analyst-with-python/issues/1#issue-724587295">
+
+[![1](https://user-images.githubusercontent.com/24316133/96454153-311f5300-1267-11eb-8a78-e9fbd11660a1.png)](url)

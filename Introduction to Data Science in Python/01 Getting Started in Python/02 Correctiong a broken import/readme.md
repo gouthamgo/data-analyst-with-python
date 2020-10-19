@@ -19,7 +19,7 @@ Whitespace matters in Python, so spaces must be removed
 Python is case-sensitive, so numpy must be all lowercase
 Python is case-sensitive, so IMPORT must be all uppercase
 ```
-#Script
+# Script
 
 ## Fix the import of numpy to run without errors
 import numpy as np

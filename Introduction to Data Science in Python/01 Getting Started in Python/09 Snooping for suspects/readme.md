@@ -1,4 +1,4 @@
-#Snooping for suspects
+# Snooping for suspects
 
 We need to narrow down the list of suspects for the kidnapping of Bayes. Once we have a list of suspects, we'll ask them for writing samples and compare them to the ransom note.
 

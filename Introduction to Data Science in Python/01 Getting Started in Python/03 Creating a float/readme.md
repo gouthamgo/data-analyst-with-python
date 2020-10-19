@@ -25,4 +25,4 @@ print(bayes_age)
 Output
 script.py> output:
                   4.0
-                  ````
+````

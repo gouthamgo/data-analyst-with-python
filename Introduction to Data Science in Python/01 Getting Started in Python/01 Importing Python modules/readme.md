@@ -9,15 +9,15 @@ Note that each module has a standard alias, which allows you to access the tools
 
 ## Instructions 1/3
 
--In the script editor, use an import statement to import statsmodels.
+- In the script editor, use an import statement to import statsmodels.
 
-##Instructions 2/3
+## Instructions 2/3
 
--Add an as statement to alias statsmodels to sm.
+- Add an as statement to alias statsmodels to sm.
 
-##Instructions 3/3
+## Instructions 3/3
 
--Add an as statement to alias seaborn to sns.
+- Add an as statement to alias seaborn to sns.
 
 ## Script
 
